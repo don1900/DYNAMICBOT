@@ -2,7 +2,7 @@
 <b> 『ᴅʏɴᴀᴍɪᴄ』🇮🇳 </b>
 </h1>
 
-[![DYNAMICBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/don1900/DYNAMICBOT)
+[![DYNAMICBOT](#logohere)](https://github.com/don1900/DYNAMICBOT)
 
 <h6 align="center">
   <b>⚡ DynamicBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
