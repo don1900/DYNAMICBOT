@@ -33,6 +33,7 @@ _setting_bot () {
     unzip -qq "$zippath"
     echo "Done"
     echo "  DynamicBot V3.O Cleaning.."
+    
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
